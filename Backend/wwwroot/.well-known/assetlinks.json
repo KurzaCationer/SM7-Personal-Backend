@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "nl.kurza.test_project",
+      "sha256_cert_fingerprints": [
+        "1B:DE:FA:2D:7E:82:39:C7:79:F0:1F:00:5D:F8:2C:72:2A:AE:A2:DA:F8:52:DB:91:FE:2F:CE:6A:67:30:B4:7C"
+      ]
+    }
+  }
+]
